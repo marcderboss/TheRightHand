@@ -1,0 +1,3 @@
+# TheRightHand
+Tool to manage the organisation of a sports team
+...
